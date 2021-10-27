@@ -6,7 +6,6 @@ class ExoscaleCli < Formula
   desc "Manage easily your Exoscale infrastructure from the command-line."
   homepage "https://exoscale.github.io/cli/"
   version "1.45.2"
-  bottle :unneeded
 
   on_macos do
     url "https://github.com/exoscale/cli/releases/download/v1.45.2/exoscale-cli_1.45.2_darwin_all.tar.gz"
